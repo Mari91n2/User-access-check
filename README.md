@@ -1,0 +1,6 @@
+- Bruger-ID større end 65536 betyder administrator.
+- Brugernavnet skal have mindst 3 tegn.
+- Password skal indeholde et af tegnene `$`, `|` eller `@`.
+- Password skal være:
+    - mindst 20 tegn for administrator
+    - mindst 16 tegn for almindelig bruger
